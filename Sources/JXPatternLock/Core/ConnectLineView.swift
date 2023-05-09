@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 /// 所有的配置项都是静态配置，配置好之后再更新是没有效果的！！！
 open class ConnectLineView: UIView, ConnectLine {
